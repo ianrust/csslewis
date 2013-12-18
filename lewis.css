@@ -18,6 +18,9 @@ body {
 	-webkit-animation-duration:6s; 
 	-webkit-animation-direction:alternate; 
 	-webkit-animation-iteration-count:infinite;
+
+	border:2px solid;
+	border-radius:25px;
 }	
 
 @keyframes homeCycle {
@@ -32,8 +35,4 @@ body {
 	25% {background-color:#060;} 
 	50% {background-color:#CC3200;} 
 	75% {background-color:#603;} 
-}
-
-#askout {
-
 }
